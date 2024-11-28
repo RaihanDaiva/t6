@@ -71,4 +71,4 @@ for j in hasil_padi.keys() and hasil_jagung.keys():
     else:
         print("lokasi tersebut dalam kondisi baik")
         
-#No 7_
+
