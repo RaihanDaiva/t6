@@ -72,4 +72,5 @@ for j in hasil_padi.keys() and hasil_jagung.keys():
         print("lokasi tersebut dalam kondisi baik")
         
 
-print("woi")
+a = ("Apaaa")
+print(a)
